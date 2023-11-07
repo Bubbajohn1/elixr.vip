@@ -1,0 +1,18 @@
+﻿  c_baseplayer.cpp
+C:\Users\tyler\Documents\coding\rust\elixr.vip\elixr.vip\src\core\il2.hpp(39,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\tyler\Documents\coding\rust\elixr.vip\elixr.vip\src\core\il2.hpp(39,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  il2.cpp
+C:\Users\tyler\Documents\coding\rust\elixr.vip\elixr.vip\src\core\il2.hpp(39,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\tyler\Documents\coding\rust\elixr.vip\elixr.vip\src\core\il2.hpp(39,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  offsets.cpp
+C:\Users\tyler\Documents\coding\rust\elixr.vip\elixr.vip\src\core\il2.hpp(39,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\tyler\Documents\coding\rust\elixr.vip\elixr.vip\src\core\il2.hpp(39,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  dllmain.cpp
+C:\Users\tyler\Documents\coding\rust\elixr.vip\elixr.vip\src\core\il2.hpp(39,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\tyler\Documents\coding\rust\elixr.vip\elixr.vip\src\core\il2.hpp(39,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating code
+  141 of 225 functions (62.7%) were compiled, the rest were copied from previous compilation.
+    133 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  elixr.vip.vcxproj -> C:\Users\tyler\Documents\coding\rust\elixr.vip\x64\Release\elixr.vip.dll
